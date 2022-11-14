@@ -7,13 +7,13 @@
 #### Version 1.0.0
  Google Link Scraping Tool 
  
- Instagram: [TMRSWRR](https://www.instagram.com/tmrswrr/)
+ Instagram: [TRHACKNON](https://www.instagram.com/brig1desint3rn1t1on1lles)
  
  ## 📀 Installation 📀
 ### Installation with requirements.txt
 
 ```bash
-git clone https://github.com/capture0x/GOOGLE-LINK-COLLECTOR/
+git clone https://github.com/trhacknon/GOOGLE-LINK-COLLECTOR/
 cd GOOGLE-LINK-COLLECTOR
 pip3 install -r requirements.txt
 ```
